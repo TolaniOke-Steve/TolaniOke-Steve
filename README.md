@@ -21,6 +21,6 @@ A simple game using GDScript.
 A simple pet name generator using Bash Shell.
 
 ## Get In Touch
-- [LinkedIn]([https://www.linkedin.com/in/tolaniokesteve](https://www.linkedin.com/in/tolani-oke-steve-bb6406295/))
+- [LinkedIn]([https://www.linkedin.com/in/tolaniokesteve])
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TolaniOke-Steve&show_icons=true&theme=radical)
