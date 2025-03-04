@@ -8,7 +8,6 @@ I'm a Software Systems Engineering Student with a passion for Embedded systems a
 - 🤔 I’m open to feedback.
 - 💬 Ask me about HTML, CSS, Bootstrap, JavaScript, TypeScript, and Node.js.
 - 📫 How to reach me: [emmasam1247@gmail.com](mailto:tolanioke@example.com)
-- ⚡ Fun fact: I serve in the Navy.
 
 ## Projects
 ### [Find My Spot](https://github.com/TolaniOke-Steve/Find-my-spot)
