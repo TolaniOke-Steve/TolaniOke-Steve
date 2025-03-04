@@ -3,7 +3,7 @@
 I'm a Software Systems Engineering Student with a passion for Embedded systems and Web development. Welcome to my GitHub profile!
 
 ## About Me
-- 🌱 I’m currently learning advanced TypeScript and Arduino programming.
+- 🌱 I’m currently learning advanced TypeScript and Arduino programming ans getting my AWS certification.
 - 👯 I’m looking to collaborate on web development projects.
 - 🤔 I’m open to feedback.
 - 💬 Ask me about HTML, CSS, Bootstrap, JavaScript, TypeScript, and Node.js.
