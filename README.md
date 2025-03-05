@@ -11,7 +11,8 @@ I'm a Software Systems Engineering Student with a passion for Embedded systems a
 
 ## Projects
 ### [Find My Spot](https://github.com/TolaniOke-Steve/Find-my-spot)
-An interactive web application for users to post their favourite spots. Built with HTML, CSS, Bootstrap, JavaScript, TypeScript, and Node.js.
+An interactive web application for users to post their favourite spots. Built with HTML, CSS, Bootstrap, JavaScript, TypeScript, and Node.js. 
+(current project)
 
 ### [Sunny Land](https://github.com/TolaniOke-Steve/Sunny-Land)
 A simple game using GDScript.
