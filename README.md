@@ -1,6 +1,6 @@
 # Hello, I'm Tolani Oke-Steve 👋
 
-I'm a Software Systems Engineering Student with a passion for Embedded systems and Web development. Welcome to my GitHub profile!
+I'm a Software Systems Engineering Student with a passion for Embedded systems and Web development.
 
 ## About Me
 - 🌱 I’m currently learning advanced TypeScript and Arduino programming alongside working towards getting my AWS certification.
