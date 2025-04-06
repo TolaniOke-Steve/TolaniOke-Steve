@@ -6,7 +6,6 @@ I'm a Software Systems Engineering Student with a passion for Embedded systems a
 - 🌱 I’m currently learning advanced TypeScript and Arduino programming alongside working towards getting my AWS certification.
 - 👯 I’m looking to collaborate on web development projects.
 - 🤔 I’m open to feedback.
-- 💬 Ask me about HTML, CSS, Bootstrap, JavaScript, TypeScript, and Node.js.
 - 📫 How to reach me: [Gmail](emmasam1247@gmail.com)
 
 ## Projects
