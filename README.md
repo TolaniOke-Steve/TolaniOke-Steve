@@ -6,7 +6,7 @@ I'm a Software Systems Engineering Student with a passion for Embedded systems a
 - 🌱 I’m currently learning advanced TypeScript and Arduino programming alongside working towards getting my AWS certification.
 - 👯 I’m looking to collaborate on web development projects.
 - 🤔 I’m open to feedback.
-- 📫 How to reach me: [Gmail](emmasam1247@gmail.com)
+- 📫 How to reach me: [Gmail](...)
 
 ## Projects
 ### [Find My Spot](https://github.com/TolaniOke-Steve/Find-my-spot)
