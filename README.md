@@ -9,6 +9,9 @@ I'm a Software Systems Engineering Student with a passion for Embedded systems a
 - 📫 How to reach me: [Gmail](...)
 
 ## Projects
+### [Heart disease prediction model](https://github.com/TolaniOke-Steve/XGBoost-Heart-Disease-ML)
+Heart disease prediction model using XGBoost, SMOTE, and hyperparameter tuning.
+
 ### [Find My Spot](https://github.com/TolaniOke-Steve/Find-my-spot)
 An interactive web application for users to post their favourite spots. Built with HTML, CSS, Bootstrap, JavaScript, TypeScript, and Node.js. 
 (current project)
